@@ -32,6 +32,11 @@ Things you may want to cover:
   ```
 * Database => Postgres
 
+* Starting Application Server Command
+  ```sh
+  bundle exec puma -C config/puma.rb -p 3000
+  ```
+
 * Environment variables
   ```sh
   DB_NAME
