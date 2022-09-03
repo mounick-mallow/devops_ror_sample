@@ -30,6 +30,8 @@ Things you may want to cover:
   ```sh
   rails s
   ```
+* Database => Postgres
+
 * Environment variables
   ```sh
   DB_NAME
@@ -45,4 +47,10 @@ Things you may want to cover:
   ```
   ```sh
   DB_PORT
+  ```
+  ```sh
+  RAILS_ENV = production
+  ```
+  ```sh
+  RACK_ENV = production
   ```
